@@ -10,12 +10,12 @@
 ### Senior developer, Team leader
 - *Tripomatic s.r.o.*
 - Aug 2012 - present
-- Tripomatic.com since private alpha, +400K users, native mobile apps with JS core, OpenStreetMaps import for custom routing and map tiles
+- [Tripomatic.com](http://www.tripomatic.com/) since private alpha, +400K users, native mobile apps with JS core, OpenStreetMaps import for custom routing and map tiles
 
 ### PHP developer
 - *two bits s.r.o.*
 - Jul 2010 - Aug 2012
-- WhichAirline.com - low cost airlines flights search, sold to SkyPicker.com
+- [WhichAirline.com](http://www.whichairline.com/) - low cost airlines flights search, sold to [SkyPicker.com](https://www.skypicker.com)
 
 ### SW engineer
 - *BC Logia a.s.*
@@ -25,16 +25,16 @@
 ### Programmer
 - *Masaryk University*
 - Jan 2003 - Jan 2004
-- Housing.muni.cz - accommodation list for university students
+- [Housing.muni.cz](http://housing.muni.cz) - accommodation list for university students
 
 ## Education
 ### Masaryk University
 - Sep 2000 - Apr 2005
-- Bachelor's degree in Applied Informatics
+- Bachelor's degree in [Applied Informatics](http://www.fi.muni.cz/)
 
 ### Masaryk University
 - Sep 1998 - Sep 2001
-- Bachelor's degree in Mathematics
+- Bachelor's degree in [Mathematics](http://www.math.muni.cz/)
 
 ## Skills
 ### PHP
