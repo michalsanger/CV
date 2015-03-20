@@ -9,7 +9,7 @@
 ## Work History
 ### Senior developer, Team leader
 - *Tripomatic s.r.o.*
-- Aug 2012 - present
+- Aug 2011 - present
 - [Tripomatic.com](http://www.tripomatic.com/) since private alpha, +400K users, native mobile apps with JS core, OpenStreetMaps import for custom routing and map tiles
 
 ### PHP developer
