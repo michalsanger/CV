@@ -14,7 +14,7 @@
 
 ### PHP developer
 - *two bits s.r.o.*
-- Jul 2010 - Aug 2012
+- Jul 2010 - Aug 2011
 - [WhichAirline.com](http://www.whichairline.com/) - low cost airlines flights search, sold to [SkyPicker.com](https://www.skypicker.com)
 
 ### SW engineer
