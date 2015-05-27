@@ -1,15 +1,20 @@
 # Michal Sänger
 *Full Stack Developer*
-- Brno, Czech Republic
+- Prague, Czech Republic
 - michal.sanger@gmail.com
 - +420 777 576287
 - https://github.com/michalsanger
 - https://twitter.com/sanger_foodblog/
 
 ## Work History
+### Backend developer
+- *Bileto*
+- May 2015 - present
+- [Bileto.cz](http://www.bileto.cz/) member of backend team, working on a new scalable version
+
 ### Senior developer, Team leader
 - *Tripomatic s.r.o.*
-- Aug 2011 - present
+- Aug 2011 - April 2015
 - [Tripomatic.com](http://www.tripomatic.com/) since private alpha, +400K users, native mobile apps with JS core, OpenStreetMaps import for custom routing and map tiles
 
 ### PHP developer
