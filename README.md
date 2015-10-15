@@ -1,3 +1,5 @@
+Printable version: [michalsanger.github.io/CV](http://michalsanger.github.io/CV/)
+
 # Michal Sänger
 *Full Stack Developer*
 - Prague, Czech Republic
@@ -43,10 +45,10 @@
 
 ## Skills
 ### PHP
-PHP 5.3+, Nette, Symfony
+PHP 5.3+, Nette, Symfony, Laravel, Lumen
 
 ### SQL
-MySQL, MS SQL, SQLite, PostGis
+MySQL, MS SQL, SQLite, PostgreSQL, PostGis
 
 ### JavaScript
 Google Closure, React, CoffeeScript
@@ -55,7 +57,7 @@ Google Closure, React, CoffeeScript
 EC2, RDS, S3, DynamoDB, CloudFront, SQS
 
 ### DevOps
-Ubuntu, Bash, Vagrant
+Ubuntu, Bash, Vagrant, Docker
 
 ### Testing
 TDD, Selenium, Gulp, PHPUnit, Mocha
