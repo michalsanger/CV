@@ -9,9 +9,14 @@ Printable version: [michalsanger.github.io/CV](http://michalsanger.github.io/CV/
 - https://twitter.com/sanger_foodblog/
 
 ## Work History
+### React Native developer
+- *Actum*
+- Aug 2016 - present
+- [Actum.cz](http://www.actum.cz/) member of react native team, creating mobile app for Metro
+
 ### Backend developer
 - *Bileto*
-- May 2015 - present
+- May 2015 - Aug 2016
 - [Bileto.cz](http://www.bileto.cz/) member of backend team, working on a new scalable version
 
 ### Senior developer, Team leader
