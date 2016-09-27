@@ -22,12 +22,12 @@ Printable version: [michalsanger.github.io/CV](http://michalsanger.github.io/CV/
 ### Senior developer, Team leader
 - *Tripomatic s.r.o.*
 - Aug 2011 - April 2015
-- [Tripomatic.com](http://www.tripomatic.com/) since private alpha, +400K users, native mobile apps with JS core, OpenStreetMaps import for custom routing and map tiles
+- [Tripomatic.com](http://www.tripomatic.com/) since private alpha, +400K users, native mobile apps with JS core, OpenStreetMaps import for custom routing and map tiles. Acquired by [Sygic](https://www.sygic.com/)
 
 ### PHP developer
 - *two bits s.r.o.*
 - Jul 2010 - Aug 2011
-- [WhichAirline.com](http://www.whichairline.com/) - low cost airlines flights search, sold to [SkyPicker.com](https://www.skypicker.com)
+- [WhichAirline.com](http://www.whichairline.com/) - low cost airlines flights search, sold to [Kiwi.com](https://www.kiwi.com)
 
 ### SW engineer
 - *BC Logia a.s.*
@@ -56,13 +56,13 @@ PHP 5.3+, Nette, Symfony, Laravel, Lumen
 MySQL, MS SQL, SQLite, PostgreSQL, PostGis
 
 ### JavaScript
-Google Closure, React, CoffeeScript
+React, React Native
 
 ### AWS
-EC2, RDS, S3, DynamoDB, CloudFront, SQS
+Lambda, EC2, RDS, S3, DynamoDB, CloudFront, SQS
 
 ### DevOps
-Ubuntu, Bash, Vagrant, Docker
+Serverless, Ubuntu, Bash, Docker
 
 ### Testing
 TDD, Selenium, Gulp, PHPUnit, Mocha
